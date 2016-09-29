@@ -14,10 +14,9 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 80% "Comic Sans MS", cursive, sans-serif;
+	font: 80% "Trebuchet MS", Helvetica, sans-serif
 	line-height: 1.88889;
 	color: black; 
-	font-weight: bold;
 	background: #fff url(https://havehest.files.wordpress.com/2012/06/img_96951.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
@@ -60,7 +59,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://www.halge.se/wp-content/uploads/mossa-med-halge.gif) no-repeat top; 
+	background: url(mossa-med-halge.gif) no-repeat top; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
@@ -97,13 +96,13 @@ header {
 	margin: 20px 20px 20px 10px; 
 	width: 160px; 
 	float: left;
-	border: 2px solid red;
+	border: 5px solid red;
 	}
 .summary p {
 	font: italic 1.1em/2.2 georgia; 
 	text-align: center;
 	font-weight: bold;
-	background-color: white;
+	background-color: yellow;
 	}
 
 .preamble {
@@ -189,7 +188,7 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: transparent url(http://www.seriefigur.se/wp-content/uploads/2011/09/halge_ligger-300x109.jpg)top right no-repeat;  
+	background: transparent url(halge_ligger-300x109.png)top right no-repeat;  
 	position: absolute;
 	top: 40px; 
 	right: 0; 
